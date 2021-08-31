@@ -5,7 +5,7 @@
   <li>Como utilizar dependencias como chart.js</li>
   <li>Aprender el uso de mapas interactivos</li>
  <br> 
- <p>pueden leer el pdf llamado instrucciones para seguir el paso a paso del proyecto</p>
+ <p>pueden leer el archivo llamado covid 19 tracker.pdf para seguir el paso a paso del proyecto</p>
  
 
 <span> pueden ver el proyecto en </span><a href="https://covid-19-tracker-b9862.web.app/" target="_blank">https://covid-19-tracker-b9862.web.app/  </a> <span> Y probarlo! </span>
